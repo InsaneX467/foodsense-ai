@@ -38,4 +38,5 @@ The structure allows a real AI model to be added later without changing the inte
 ## Future Improvements
 - Connect to a real language model  
 - Scan labels using camera  
+<<<<<<< =======
 - Compare similar products
