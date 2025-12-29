@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Parle-G Biscuits",
+    "category": "Biscuit",
+    "ingredients": "Wheat flour, sugar, palm oil, glucose syrup, salt",
+    "common_flags": ["sugar", "palm oil"],
+    "use_case": "daily",
+    "notes": "Popular budget biscuit, often eaten daily"
+  },
+  {
+    "id": 2,
+    "name": "Britannia Marie Gold",
+    "category": "Biscuit",
+    "ingredients": "Refined wheat flour, sugar, palm oil, invert syrup",
+    "common_flags": ["sugar", "palm oil"],
+    "use_case": "daily",
+    "notes": "Marketed as light tea biscuit"
+  },
+  {
+    "id": 3,
+    "name": "Oreo",
+    "category": "Biscuit",
+    "ingredients": "Refined flour, sugar, palm oil, cocoa solids",
+    "common_flags": ["high sugar", "palm oil"],
+    "use_case": "occasional",
+    "notes": "High sugar cream biscuit"
+  },
+  {
+    "id": 4,
+    "name": "Maggi 2-Minute Noodles",
+    "category": "Instant Food",
+    "ingredients": "Refined flour, palm oil, salt, flavour enhancers",
+    "common_flags": ["palm oil", "high sodium"],
+    "use_case": "occasional",
+    "notes": "Convenience food"
+  },
+  {
+    "id": 5,
+    "name": "Lays Classic Salted",
+    "category": "Chips",
+    "ingredients": "Potatoes, edible vegetable oil, salt",
+    "common_flags": ["high fat", "salt"],
+    "use_case": "occasional",
+    "notes": "Simple ingredient list but fried"
+  },
+  {
+    "id": 6,
+    "name": "Kurkure Masala Munch",
+    "category": "Snack",
+    "ingredients": "Corn meal, palm oil, spices, salt",
+    "common_flags": ["palm oil", "salt"],
+    "use_case": "occasional",
+    "notes": "Deep-fried snack"
+  },
+  {
+    "id": 7,
+    "name": "Coca-Cola",
+    "category": "Soft Drink",
+    "ingredients": "Carbonated water, sugar, caffeine, flavouring",
+    "common_flags": ["high sugar"],
+    "use_case": "avoid",
+    "notes": "Sugary beverage"
+  },
+  {
+    "id": 8,
+    "name": "Pepsi",
+    "category": "Soft Drink",
+    "ingredients": "Carbonated water, sugar, caffeine, phosphoric acid",
+    "common_flags": ["high sugar"],
+    "use_case": "avoid",
+    "notes": "Sugary beverage"
+  },
+  {
+    "id": 9,
+    "name": "Real Orange Juice",
+    "category": "Juice",
+    "ingredients": "Orange juice concentrate, sugar, preservatives",
+    "common_flags": ["added sugar"],
+    "use_case": "occasional",
+    "notes": "Marketed as fruit juice"
+  },
+  {
+    "id": 10,
+    "name": "Tropicana 100% Orange Juice",
+    "category": "Juice",
+    "ingredients": "Orange juice concentrate",
+    "common_flags": [],
+    "use_case": "occasional",
+    "notes": "No added sugar"
+  },
+  {
+    "id": 11,
+    "name": "Amul Butter",
+    "category": "Dairy",
+    "ingredients": "Pasteurized cream, salt",
+    "common_flags": ["saturated fat"],
+    "use_case": "moderate",
+    "notes": "Natural but high fat"
+  },
+  {
+    "id": 12,
+    "name": "Amul Cheese Slices",
+    "category": "Dairy",
+    "ingredients": "Milk solids, salt, emulsifiers",
+    "common_flags": ["salt", "fat"],
+    "use_case": "moderate",
+    "notes": "Processed dairy"
+  },
+  {
+    "id": 13,
+    "name": "Kellogg’s Cornflakes",
+    "category": "Cereal",
+    "ingredients": "Corn, sugar, salt, vitamins",
+    "common_flags": ["added sugar"],
+    "use_case": "daily",
+    "notes": "Marketed as breakfast cereal"
+  },
+  {
+    "id": 14,
+    "name": "Chocos",
+    "category": "Cereal",
+    "ingredients": "Wheat flour, sugar, cocoa solids",
+    "common_flags": ["high sugar"],
+    "use_case": "occasional",
+    "notes": "Kids-focused cereal"
+  },
+  {
+    "id": 15,
+    "name": "Dairy Milk",
+    "category": "Chocolate",
+    "ingredients": "Sugar, milk solids, cocoa butter",
+    "common_flags": ["high sugar"],
+    "use_case": "occasional",
+    "notes": "Confectionery"
+  },
+  {
+    "id": 16,
+    "name": "5 Star Chocolate",
+    "category": "Chocolate",
+    "ingredients": "Sugar, glucose syrup, milk solids",
+    "common_flags": ["high sugar"],
+    "use_case": "occasional",
+    "notes": "Chewy chocolate bar"
+  },
+  {
+    "id": 17,
+    "name": "Bournvita",
+    "category": "Health Drink",
+    "ingredients": "Malt extract, sugar, cocoa solids",
+    "common_flags": ["high sugar"],
+    "use_case": "occasional",
+    "notes": "Often assumed healthy"
+  },
+  {
+    "id": 18,
+    "name": "Horlicks",
+    "category": "Health Drink",
+    "ingredients": "Malt extract, sugar, milk solids",
+    "common_flags": ["added sugar"],
+    "use_case": "moderate",
+    "notes": "Traditional supplement drink"
+  },
+  {
+    "id": 19,
+    "name": "Fortune Sunflower Oil",
+    "category": "Cooking Oil",
+    "ingredients": "Refined sunflower oil",
+    "common_flags": ["refined oil"],
+    "use_case": "daily",
+    "notes": "Common household oil"
+  },
+  {
+    "id": 20,
+    "name": "Aashirvaad Atta",
+    "category": "Staple Food",
+    "ingredients": "Whole wheat flour",
+    "common_flags": [],
+    "use_case": "daily",
+    "notes": "Basic staple food"
+  }
+]
